@@ -6,12 +6,12 @@ That's my fist landing page, using HTML5 and Sass. I followed [this](https://you
 
 ## Images
 
-![Website image](C:\Users\davi3\Documents\Workspace\learn-html-css\src\imgs\1.png "Desktop version.")
+![Website image](.\src\imgs\1.png "Desktop version.")
 
 
 
-![Website image](C:\Users\davi3\Documents\Workspace\learn-html-css\src\imgs\2.png "Tablet version.")
+![Website image](.\src\imgs\2.png "Tablet version.")
 
 
 
-![Website image](C:\Users\davi3\Documents\Workspace\learn-html-css\src\imgs\3.png "Smartphone version.")
+![Website image](.\src\imgs\3.png "Smartphone version.")
