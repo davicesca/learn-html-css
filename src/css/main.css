@@ -85,6 +85,7 @@ nav .close {
 section.hero {
   color: #fff;
   height: 80vh;
+  margin-bottom: 5em;
   -webkit-animation: moveDown 1s ease-in-out forwards;
           animation: moveDown 1s ease-in-out forwards;
   opacity: 0;
